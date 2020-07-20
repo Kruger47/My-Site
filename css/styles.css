@@ -1,0 +1,153 @@
+/*Ancor Element*/
+a {
+  color: #79d70f;
+  font-family: "times new roman";
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+/*End of Ancor*/
+/*Body Element*/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Aclonica', sans-serif;
+  color: black;
+}
+
+/*End of Body*/
+/*Headings Elements*/
+h1 {
+  font-size: 562.5%;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  font-family: 'Bilbo Swash Caps', cursive;
+  color: #84a9ac;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-family: 'Aclonica', sans-serif;
+  color: #84a9ac;
+}
+
+h3 {
+  font-family: 'Aclonica', sans-serif;
+  color: #79d70f;
+}
+
+.contact-heading {
+  font-size: 200%;
+}
+
+/*End of Headings*/
+/*Horisontal Line*/
+hr {
+  background-color: white;
+  border-color: #3b6978;
+  border-width: 5px;
+  border-style: none;
+  border-top-style: dotted;
+  margin-top: 50px;
+  width: 15%
+}
+
+/*End of Horisontal Line*/
+/*Containers*/
+.top-container {
+  background-color: #ddf3f5;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: white;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  line-height: 2;
+}
+
+.bottom-container {
+  background-color: #ddf3f5;
+  padding: 20px 0 30px;
+}
+
+/*End of Containers*/
+/*Paragraphs*/
+.par {
+  font-size: 200%;
+  color: #84a9ac;
+}
+
+.contact-p {
+  margin-bottom: 30px;
+}
+
+/*End of Paragraphs*/
+/*images*/
+.skill-img {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-img-vise {
+  float: right;
+  width: 20%;
+  margin-left: 30px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 150px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 150px;
+  bottom: 250px;
+}
+
+.mountain {
+  border-bottom: 0;
+}
+
+/*End of images*/
+/*Footer*/
+.footer {
+  color: #204051;
+  font-weight: normal;
+  font-size: 14px;
+}
+
+/*End of Footer*/
+/*Middle container-Content*/
+.profile {
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.button {
+  background-color: #3b6978;
+  color: white;
+  padding: 15px 32px;
+  border-radius: 8px;
+  transition-duration: 0.4s;
+  font-family: "times new roman";
+  text-decoration: none;
+}
+
+.button:hover {
+  background-color: #79d70f;
+  color: white;
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+/*End of Middle container-Content*/
